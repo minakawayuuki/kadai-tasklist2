@@ -11,7 +11,6 @@
                 <h1>タスク管理アプリケーション</h1>
             </div>
             <div id="content">
-                確認です！
                 ${param.content}
             </div>
             <div>
